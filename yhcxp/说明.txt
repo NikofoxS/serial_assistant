@@ -1,0 +1,1 @@
+SerialPort.cpp中1281处：		DWORD nValueType = 0, nBuffLen = 20;//nBuffLen为读取是读取数据多少，在此处即为读取的最大串口数
