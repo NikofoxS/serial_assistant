@@ -4,4 +4,4 @@ serial assistant
 
     reference http://blog.csdn.net/itas109 the class.
     
-    Based on MFC's serial port assistant, the current Hex mode and the Char mode need to manually modify the annotated code.
+    Based on MFC serial port assistant, the current Hex mode and the Char mode need to manually modify the annotated code.
